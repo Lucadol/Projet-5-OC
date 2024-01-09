@@ -1,5 +1,9 @@
-# Projet n°5 - Parcours Développeur Web - OpenClassrooms
+# <p align="center">OC-Projet5-Nina-Carducci</p>
 ## Débuggez et optimisez un site de photographe
+
+![Projet 5](https://github.com/Lucadol/Projet-5-OC/assets/130574901/a69a8da6-3f55-43d7-a161-48a5ee535361)
+
+Site link : https://projet-5-oc.github.io
 
 ### Objectifs de la mission :
 * Faire une optimisation globale du site, tant sur les performances que sur le SEO ;
@@ -12,5 +16,3 @@
 * Optimiser les performances d’un site web
 * Débugger un site web grâce aux Chrome DevTools
 * Rédiger un cahier de recette pour tester un site
-
-Site link : https://lucadol.github.io/Projet-5/

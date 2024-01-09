@@ -3,7 +3,7 @@
 
 ![Projet 5](https://github.com/Lucadol/Projet-5-OC/assets/130574901/a69a8da6-3f55-43d7-a161-48a5ee535361)
 
-Site link : https://projet-5-oc.github.io
+Site link :[ https://projet-5-oc.github.io](https://lucadol.github.io/Projet-5-OC/)
 
 ### Objectifs de la mission :
 * Faire une optimisation globale du site, tant sur les performances que sur le SEO ;
